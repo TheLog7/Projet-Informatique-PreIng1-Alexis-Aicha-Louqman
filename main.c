@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 int main(){
-    printf("Hello World");
-    printf("La galère");
-    printf("test de code etc");
-    return 0; //test des modifs dans une autre branchess, créée
+    printf("Hello World\n");
+    printf("La galère\n");
+    printf("test de code etc\n");
+    printf("On dirait que je vais pouvoir commencer");
+    return 0;
 }
