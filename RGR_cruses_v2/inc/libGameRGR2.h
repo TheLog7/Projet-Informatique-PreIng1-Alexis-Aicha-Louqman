@@ -5,6 +5,8 @@
     //------------------------------
     // INCLUDES
     //------------------------------
+    #include <stdio.h>
+    #include <stdlib.h>
     #include <locale.h>
     #include <curses.h>
     #include "keys.h"

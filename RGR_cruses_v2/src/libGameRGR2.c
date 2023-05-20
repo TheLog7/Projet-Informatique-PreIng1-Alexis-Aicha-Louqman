@@ -122,7 +122,7 @@ void gameLoop(GameData* pGame){
         pCb->cbDraw(pDat, pScr);
         if(pGame->displayFPS != 0){
             move(0,0);
-            printw("|FPS %ld|", (unsigned long)(0.99 + 1000000.0/frameTime));
+            printw("|FPS %ld|          ", (unsigned long)(0.99 + 1000000.0/frameTime));
         }
         refresh();
 
