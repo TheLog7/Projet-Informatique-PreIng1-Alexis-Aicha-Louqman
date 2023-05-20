@@ -6,7 +6,7 @@ INC_DIR  = inc
 SRC_DIR  = src
 LIB_DIR  = lib
 TEST_EXE = test
-CURSES   = ncursesw
+CURSES   = ncurses
 
 #-----------------------------------------
 # REBUILD
