@@ -1,3 +1,0 @@
-/Users/louqmanba/Documents/Cours/Informatique/Projets/PreIng1 S2/Branche test/RGR_cruses_v2/cmake-build-debug/CMakeFiles/RGR_cruses_v2.dir
-/Users/louqmanba/Documents/Cours/Informatique/Projets/PreIng1 S2/Branche test/RGR_cruses_v2/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/louqmanba/Documents/Cours/Informatique/Projets/PreIng1 S2/Branche test/RGR_cruses_v2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
