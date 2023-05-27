@@ -1,0 +1,8 @@
+[DEBUG] [DEBUG] [DEBUG] [DEBUG] [DEBUG] [DEBUG] [DEBUG] [DEBUG] --------------------
+[ERROR] Probleme de lecture
+File     : 'src/utils.c'
+Function : 'restaureSave( )'
+Line     :  1423 
+
+Program exited with code (72).
+--------------------
